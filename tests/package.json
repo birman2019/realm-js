@@ -11,7 +11,7 @@
     "segfault-handler": "^1.0.1",
     "terminate": "^1.0.8",
     "tmp": "^0.0.30",
-    "url-parse": "^1.1.7",
+    "url-parse": "^1.5.9",
     "typescript": "^2.5.2"
   },
   "scripts": {
